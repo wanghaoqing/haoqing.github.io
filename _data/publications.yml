@@ -1,22 +1,18 @@
 - title: "Maltose-bis(hydroxymethyl)phenol (MBPs) and Maltose-tris(hydroxymethyl)phenol (MTPs) Amphiphiles for Membrane Protein Stability. "
-  citation: "Ehsan M, Wang H, Cecchetti C, Mortensen JS, Du Y, Hariharan P, Nygaard A, Lee HJ, Ghani L, Guan L, Loland CJ, Byrne B, Kobilka BK, Chae PS. ACS Chem Biol. 2021"
-  image: "/static/img/pub/gardner_2021.jpg"
+  citation: "Ehsan M, **Wang H**, Cecchetti C, Mortensen JS, Du Y, Hariharan P, Nygaard A, Lee HJ, Ghani L, Guan L, Loland CJ, Byrne B, Kobilka BK, Chae PS. ACS Chem Biol. 2021"
+  image: ""
   date: "2021-09"
   pmid: "34445864"
   pmcid: "PMC8482870"
 
 
-- title: "Cryo-EM model validation recommendations based on outcomes of the 2019 EMDataResource challenge."
-  citation: "Lawson CL, Kryshtafovych A, Adams PD, Afonine PV, Baker ML, **Barad BA**, Bond P, Burnley T, Cao R, Cheng J, Chojnowski G, Cowtan K, Dill KA, DiMaio F, Farrell DP, Fraser JS, Jr. MAH, Hoh SW, Hou J, Hung L, Igaev M, Joseph AP, Kihara D, Kumar D, Mittal S, Monastyrskyy B, Olek M, Palmer CM, Patwardhan A, Perez A, Pfab J, Pintilie GD, Richardson JS, Rosenthal PB, Sarkar D, Schäfer LU, Schmid MF, Schröder GF, Shekhar M, Si D, Singharoy A, Terashi G, Terwilliger TC, Vaiana A, Wang L, Wang Z, Wankowicz SA, Williams CJ, Winn M, Wu T, Yu X, Zhang K, Berman HM, Chiu W. *Nature Methods*. 2021."
-  date: '2020-06-19'
-  image: '/static/img/pub/2020_lawson.jpg'
-  pmid: '33542514'
-  pmcid: 'PMC7864804'
-  biorxiv: '2020.06.12.147033'
-  pdf: 'https://www.biorxiv.org/content/10.1101/2020.06.12.147033v1.full.pdf'
-  links:
-    - name: 2019 Model Metrics Challenge
-      url: https://challenges.emdataresource.org/?q=model-metrics-challenge-2019
+- title: "Conformationally flexible core-bearing detergents with a hydrophobic or hydrophilic pendant: Effect of pendant polarity on detergent conformation and membrane protein stability."
+  citation: "Sadaf A, Kim S, Bae HE, **Wang H**, Nygaard A, Uegaki Y, Du Y, Munk CF, Katsube S, Sung Lee H, Bae J, Choi CW, Choi HJ, Byrne B, Gellman SH, Guan L, Loland CJ, Kobilka BK, Im W, Chae PS. Acta Biomater. 2021 "
+  date: '2021-04'
+  image: ''
+  pmid: '33933694'
+  pmcid: 'PMC8222176'
+  
 
 - title: "Differences in the chitinolytic activity of mammalian chitinases on soluble and insoluble substrates"
   citation: "**Barad BA**, Liu L, Diaz RE, Basillo R, Van Dyken SJ, Locksley RM, Fraser JS.  *Protein Science*. 2020."
@@ -26,17 +22,7 @@
   pmcid: 'PMC7096708'
   biorxiv: '762336'
   pdf: '/static/pdf/2020_barad.pdf'
-  links:
-    - name: Chitin Analysis Scripts on GitHub
-      url: https://github.com/fraser-lab/chitin_analysis
-    - name: Relax Scripts for calculating non-linear relaxation fits on GitHub
-      url: https://github.com/fraser-lab/relax
-    - name: Locksley lab @ UC San Francisco
-      url: https://locksleylab.ucsf.edu
-    - name: Van Dyken lab @ Washington University in St. Louis
-      url: https://sites.wustl.edu/vandykenlab/
-    - name: Celebratory Tweetstorm
-      url: https://twitter.com/benjaminbarad/status/1171091343789056000
+
 
 - title: "Temperature-Jump Solution X-ray Scattering Reveals Distinct Motions in a Dynamic Enzyme"
   citation: 'Thompson MC, **Barad BA**, Wolff AM, Cho HS, Schotte F, Schwarz DMC, Anfinrud P, Fraser JS. *Nature Chemistry*. 2019.'
