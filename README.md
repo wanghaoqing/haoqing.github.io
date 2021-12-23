@@ -1,6 +1,4 @@
-bbarad.github.io
-================
-Freely licensed personal website for Benjamin Barad
+Personal website, adopted from 
 
 ## How to clone this website:
 1. Fork it and change the repository name to USERNAME.github.io (mine was bbarad, but that won't work for you!)
