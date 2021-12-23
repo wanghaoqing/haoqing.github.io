@@ -1,6 +1,6 @@
 ---
 name: Home
-layout: default
+layout: page
 group: home
 ---
 
