@@ -1,16 +1,9 @@
-- title: "CellPAINT: Turnkey illustration of molecular cell biology"
-  citation: "Gardner A, Ludovic A, Fuentes D, Maritan M, **Barad BA**, Medina, M, Olson AJ, Grotjahn DA, Goodsell DS. *Front. Bioinform.* 2021."
+- title: "Maltose-bis(hydroxymethyl)phenol (MBPs) and Maltose-tris(hydroxymethyl)phenol (MTPs) Amphiphiles for Membrane Protein Stability. "
+  citation: "Ehsan M, Wang H, Cecchetti C, Mortensen JS, Du Y, Hariharan P, Nygaard A, Lee HJ, Ghani L, Guan L, Loland CJ, Byrne B, Kobilka BK, Chae PS. ACS Chem Biol. 2021"
   image: "/static/img/pub/gardner_2021.jpg"
-  date: "2020-03-29"
-  pmid: "34790910"
-  pmcid: "PMC8594902"
-  pdf: "https://www.frontiersin.org/articles/10.3389/fbinf.2021.660936/pdf"
-  zenodo: 
-    - code: "4606923"
-      description: "Tomogram used for CellPAINT hypothesis generation"
-  links:
-    - name: "Molecular Graphics Laboratory"
-      url: "https://ccsb.scripps.edu/goodsell/"
+  date: "2021-09"
+  pmid: "34445864"
+  pmcid: "PMC8482870"
 
 
 - title: "Cryo-EM model validation recommendations based on outcomes of the 2019 EMDataResource challenge."
