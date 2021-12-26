@@ -1,15 +1,19 @@
-- name: home
+- name: Home
   url: /
   group: home
 
-- name: publications
+- name: Publications
   url: /publications
   group: publications
 
-# - name: blog
-#   url: /blog
-#   group: blog
+- name: Research
+  url: /research
+  group: research
 
-- name: contact
-  url: /contact
-  group: contact
+- name: About
+  url: /about
+  group: about
+
+- name: Test
+  url: /test
+  group: test

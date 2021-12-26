@@ -1,15 +1,18 @@
 ---
 name: Home
-layout: page
+layout: default
 group: home
 ---
 
-<img src="/static/img/Giving_microed_talk.jpg" class="img-responsive center-block" alt="Giving a talk about recent developments in electron crystallography, February 2014"/>
+<img src="/self.jpg" class="img-responsive center-block" alt="grand canyon, 2019"/>
 
-<h1 class="text-center">Benjamin Barad, Ph.D.</h1>
+<h1 class="text-center">Haoqing Wang, Ph.D.</h1>
 
-<p class="lead text-justify">
-I am a structural biologist with a special interest in emerging computational and experimental methods in electron microscopy. I am working as a postdoc with [Danielle Grotjahn](https://www.scripps.edu/faculty/grotjahn/), using cryo-electron tomography of focused ion beam-thinned cells to quantify mitochondrial morphology and solve _in situ_ protein structures. In particular, I am excited about the power of electron tomography to contextualize the structure, dynamics, and interactions of proteins as they perform their physiolocal function in the cell.    
-I received my PhD in biophysics from UCSF in the lab of [James Fraser](http://fraserlab.com), where I developed methods for the building and validating atomic models generated from single particle electron microscopy, as well as investigating the mechanisms of activity of mammalian chitinases. Before that, I was an undergraduate at Stanford University studying Biological Chemistry, where I worked with [Elizabeth Sattely](http://www.stanford.edu/group/sattelygroup/cgi-bin/wordpress/) investigating bacterial degradation of the plant polymer lignin.   
-Beyond my scientific interests, I am excited about food and cooking, coffee, 3D printing, and games. 
-</p>
+
+I'm a AHA postdoctoral fellow in [Brian Kobilka lab](https://med.stanford.edu/kobilkalab.html) working on the structure-based drug discovery of opioid receptors. 
+ 
+I received my PhD from Caltech in the lab of [Pamela Bjorkman](https://www.its.caltech.edu/~bjorker/), where I studied the structure and dynamics of HIV-1 Env. 
+
+Before that, I was an undergraduate at Hong Kong University of Science and Technology, where I worked with [Zhihong Guo](https://chem.hkust.edu.hk/people/zhihong-guo-guozhihong).  
+
+While I'm not doing research, I enjoy spending time with my family. 
