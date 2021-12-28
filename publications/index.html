@@ -44,7 +44,9 @@ group: publications
               {% endif %}
 
               <!-- PDF -->
+	      {% if publication.pdf %}
               <li><a href="{{publication.pdf}}" alt = "PDF"> Full Text</a></li>
+              {% endif %}
 
               <!-- Datasets - optional -->
               {% if publication.data %}

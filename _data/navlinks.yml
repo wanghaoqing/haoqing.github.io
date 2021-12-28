@@ -2,18 +2,14 @@
   url: /
   group: home
 
-- name: Publications
-  url: /publications
-  group: publications
-
 - name: Research
   url: /research
   group: research
 
+- name: Publications
+  url: /publications
+  group: publication
+
 - name: About
   url: /about
   group: about
-
-- name: Test
-  url: /test
-  group: test
